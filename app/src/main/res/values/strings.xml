@@ -1,3 +1,31 @@
 <resources>
     <string name="app_name">nohttpapi</string>
+
+    <!--download-->
+
+    <string name="upload_file_status_wait">Wait for the operating…</string>
+
+    <!-- Download status -->
+    <string name="download_progress">Have downloaded: %1$d</string>
+    <string name="download_status_pause">Pause</string>
+    <string name="download_status_be_pause">Download is suspended</string>
+    <string name="download_status_re_download">To download</string>
+    <string name="download_status_again_download">Try it again</string>
+    <string name="download_status_resume">Continue to download</string>
+    <string name="download_status_finish">The download is complete!</string>
+    <!-- Download error -->
+    <string name="download_error">Download the wrong:%1$s</string>
+    <string name="download_error_server">Server data error!</string>
+    <string name="download_error_network">The network is not available, please check the network!</string>
+    <string name="download_error_storage">Memory error, please check the memory card!</string>
+    <string name="download_error_space">There is insufficient space on the memory card!</string>
+    <string name="download_error_timeout">Download the timeout!</string>
+    <string name="download_error_un_know_host">Can not find a server.</string>
+    <string name="download_error_url">URL address errors.</string>
+    <string name="download_error_argument">Download the parameter error.</string>
+    <string name="download_error_un">Unknown error.</string>
+
+    <!-- Cancel -->
+    <string name="no_operation_des">Please look at the code and comments of the Activity.</string>
+
 </resources>
